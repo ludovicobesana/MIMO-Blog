@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://getmimo.com/">
-    <img alt="Mimo" src="favicon.png" width="60" />
+    <img alt="Mimo" src="images/favicon.png" width="60" />
   </a>
 </p>
 <h1 align="center">
