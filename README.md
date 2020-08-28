@@ -9,7 +9,7 @@
 
 ## 🎓 Learning with Mimo
 
-Full courses [on Mimo website](https://getmimo.com/).
+Full courses on [Mimo website](https://getmimo.com/).
 
 ## :memo: License
 
